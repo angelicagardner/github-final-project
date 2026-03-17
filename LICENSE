@@ -1,4 +1,26 @@
-                                 Apache License
+# Contributing to "Auto Inters Calculator
+
+We love contributions! Here is how you can help:
+
+## How to Contribute
+1. **Fork the Repository:** Create your own copy of the project.
+2. **Clone Locally:** `git clone https://github.com/your-username/Srudents-Auto-Grading.git`
+3. **Create a Branch:** `git checkout -b feature/your-feature-name`
+4. **Make Changes:** Ensure your code follows the project's style.
+5. **Commit Changes:** `git commit -m "Brief description of changes"`
+6. **Push to GitHub:** `git push origin feature/your-feature-name`
+7. **Submit a Pull Request:** Explain your changes and wait for review.
+
+## Reporting Issues
+If you find a bug, please open an **Issue** in the GitHub repository and include:
+* A clear description of the problem.
+* Steps to reproduce the error.
+* Any relevant logs or screenshots.
+
+Thank you for helping improve automated grding!  
+
+
+                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -199,3 +221,4 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
