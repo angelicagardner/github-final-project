@@ -18,3 +18,4 @@ The purpose of this project is to provide an automated system for Interest Calcu
 This project is licensed to Capt. L K TauhidurRahman (Retd), under black-shadow project. under the Apache License 2.0.
 
 ```
+typo fix
